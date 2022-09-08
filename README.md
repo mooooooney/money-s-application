@@ -1,1 +1,1 @@
-# money-s-application
+# money-application
